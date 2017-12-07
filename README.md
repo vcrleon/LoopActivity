@@ -1,0 +1,1 @@
+# I attempted every part. The first and third parts were the most challenging. I don't think I did the first part correctly since my app didn't run as desired. The least challenging part was the logic in part02 although I didn't finish it entirely. I still don't feel confident with asyntasks, fragments or recyclerviews(though I understand the concept of rvs)
